@@ -1,2 +1,4 @@
 # Diceroll
-this is make only for fun
+
+
+This is a simple dice roll project created using Java.
